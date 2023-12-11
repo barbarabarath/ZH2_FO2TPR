@@ -173,7 +173,7 @@
             // 
             // btnAdd
             // 
-            btnAdd.Location = new Point(35, 279);
+            btnAdd.Location = new Point(53, 279);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(75, 23);
             btnAdd.TabIndex = 14;
@@ -183,7 +183,7 @@
             // 
             // btnQuit
             // 
-            btnQuit.Location = new Point(181, 279);
+            btnQuit.Location = new Point(203, 279);
             btnQuit.Name = "btnQuit";
             btnQuit.Size = new Size(75, 23);
             btnQuit.TabIndex = 15;
